@@ -1,0 +1,10 @@
+# 🌍 Biblioteca ConversorUnidades (by Carlos)
+
+Biblioteca simples para conversão de temperaturas e distâncias.
+
+## Como usar no seu projeto C#
+1. Adicione a referência para `ConversorUnidades.dll`.
+2. Importe o namespace: `using ConversorUnidades;`
+3. Instancie a classe `Conversores` e chame um dos métodos:
+   - `CelsiusParaFahrenheit(double celsius)`
+   - `KmParaMilhas(double km)`
