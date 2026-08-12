@@ -1,0 +1,3 @@
+Não há nenhum argumento fornecido que corresponda ao parâmetro necessário 'tamanhoMinimo' de 'Validador.ValidadorSenha(string, int)'
+
+A dll utiliza dois parâmetros e o console antigo só recebia um, com isso causando um erro de compilação
